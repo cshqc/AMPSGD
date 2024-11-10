@@ -1,0 +1,1 @@
+This is the supplementary file for paper entitled “Asynchronous Multi-stream Parallel Stochastic Gradient Descent for High-Dimensional Incomplete Data Latent Feature Analysis”. It provides the BAP algorithm’s detailed design, experimental results, and the convergence proof of the AMP-SGD-based LFA model.
